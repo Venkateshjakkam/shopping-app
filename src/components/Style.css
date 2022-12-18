@@ -1,0 +1,29 @@
+/* *{
+	background-color: rgb(249, 255, 255);
+} */
+.App {
+    font-family:'Times New Roman', Times, serif;
+    text-align: center;
+    color:#592988;
+    
+  }
+  .abc {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    margin-top: 10px;
+    gap: 10px;
+	border-radius: 50px;
+  }
+  
+
+  .btn {
+	color:"black";
+	 border-radius:5px;
+	 background-color:blue;
+	 padding: 7px;
+	 margin: 3px; 
+	 font-family:'Times New Roman', Times, serif;
+	 font-size:15px;
+	 margin-right:150;
+  }
