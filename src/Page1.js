@@ -8,7 +8,7 @@ const Page1 = () => {
 		<BioData.Provider value={'Welcome to Nex_Gen'}>
 			<Page2/>
 		</BioData.Provider>
-	)
+	) 
 }
 
 export default Page1;

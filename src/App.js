@@ -4,7 +4,7 @@ import "./components/Style.css";
 import CardOne from "./components/CardOne";
 
 
-
+ 
 function App() {
   const [searchOne, setSearchOne] = useState("");
   const [data, setData] = useState([]);

@@ -6,7 +6,7 @@ function Button3() {
 
 	const Company = () => {
 
-		setHide(true);
+		setHide(true); 
 	
 	};
 

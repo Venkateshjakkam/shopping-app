@@ -8,7 +8,7 @@ test("render Open Dialog button",()=>{
    fireEvent.click(Dialog)
 	expect(Dialog).toBe(Dialog);
   });
-
+ 
 
 // test("Check if btn says Clicked after it's clicked",()=>{
 // 	const handleCancle = jest.fn;

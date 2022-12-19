@@ -21,7 +21,7 @@ function Three() {
       setCompany(true);
     };
 
-    return (
+    return (  
       <div style={{"marginTop":"25%"}}>
         <center>
         <button onClick={first}>Person Details</button>
